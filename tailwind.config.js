@@ -21,7 +21,11 @@ export default {
         'yellow': '#FF9D23',
       },
       fontFamily: {
-        
+        nova: ['Nova Flat', 'sans-serif'],
+        nunito: ['Nunito', 'sans-serif'],
+        poppins: ['Poppins', 'sans-serif'],
+        sourceCode: ['Source Code Pro', 'monospace'],
+        poltawski: ['Poltawski Nowy', 'serif'],
       },
     },
   },
